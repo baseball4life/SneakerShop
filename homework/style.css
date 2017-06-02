@@ -1,0 +1,26 @@
+.head{
+  background-color: white;
+}
+
+.primaryimage{
+  background-color: red;
+}
+.Productinfo{
+  background-color: red;
+}
+
+a {
+  text-decoration: none;
+}
+
+header{
+  background-color: red;
+}
+
+section{
+  background-color: white;
+}
+
+footer{
+  background: white;
+}
