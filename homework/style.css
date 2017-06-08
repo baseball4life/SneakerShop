@@ -1,21 +1,24 @@
 .head{
   background-color: white;
 }
-
 .primaryimage{
-  background-color: red;
+  background-color: #FF4500;
 }
 .Productinfo{
-  background-color: red;
+  background-color: #FF4500;
 }
 
-a {
-  text-decoration: none;
+#modalWrapper{
+  visibility: hidden;
 }
 
-header{
-  background-color: red;
-}
+/*a {*/
+  /*text-decoration: none;*/
+/*}*/
+
+/*header{*/
+  /*background-color: red;*/
+/*}*/
 
 section{
   background-color: white;
